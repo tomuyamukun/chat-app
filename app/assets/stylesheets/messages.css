@@ -133,6 +133,7 @@
 .form-input {
   width: 100%;
   background-color: white;
+  display: flex;
 }
 
 .form-message {
